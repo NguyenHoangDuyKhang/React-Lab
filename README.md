@@ -1,3 +1,7 @@
+# Chức năng đăng nhập bằng Google
+Đăng ký Client ID ở địa chỉ (https://console.cloud.google.com/apis/dashboard).
+Thay thế Client ID ở file Index.js để thực hiện được chức năng trên!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
